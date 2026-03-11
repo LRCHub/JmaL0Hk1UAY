@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ワンダリング",
+  "base_artist": "くるり",
+  "createdAt": "2026-03-11T20:37:03.607921Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ワンダリング",
+      "artist": "くるり",
+      "has_synced": false,
+      "path": "select/pl_01_ワンダリング_くるり.txt"
+    }
+  ]
+}
